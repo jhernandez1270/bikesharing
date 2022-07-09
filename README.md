@@ -11,6 +11,9 @@ provided visualizations below that support our proposal that show total number o
 location data, tripdata duration, ridership types (Subscribers, customers), and breakdowns
 by gender.
 
+Here is a link to my public tableau dashboard:
+[Module 14 public Dashboard](https://public.tableau.com/app/profile/jesse.hernandez4688/viz/Module14Challenge_16573087014130/NYCCitibikeAnalysis?publish=yes)
+
 ## Results
 This is an overview of our NYC Citibike analysis that highlights Trip Duration by 
 Bike, Number of total rides in August, Gender breakdown and Top Starting locations.
